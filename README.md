@@ -14,17 +14,17 @@ Wykonuje operacje na słowniku:
 
 #### travel offer
 Klasa World Market:
-program losuje cenę za 1 tonę produktu oraz ją modyfikuje
+- program losuje cenę za 1 tonę produktu oraz ją modyfikuje
 Klasa Product:
-ustawia nazwę i masę produktu oraz oblicza cenę sprzedaży
+- ustawia nazwę i masę produktu oraz oblicza cenę sprzedaży
 Klasa Engine:
-oblicza koszt transportu z uwzględnieniem typu paliwa i czas podróży
+- oblicza koszt transportu z uwzględnieniem typu paliwa i czas podróży
 Klasa Destination:
-ustawia nazwę i odległość do danego portu
+- ustawia nazwę i odległość do danego portu
 Klasa Ship:
-oblicza całkowitą cenę sprzedaży produktu
-oblicza całkowity koszt podróży do proponowanego portu
-sprawdza czy oferta jest opłacalna - jeśli nie jest to propozycja jest odrzucana
+- oblicza całkowitą cenę sprzedaży produktu
+- oblicza całkowity koszt podróży do proponowanego portu
+- sprawdza czy oferta jest opłacalna - jeśli nie jest to propozycja jest odrzucana
 
 #### obsługa linq
 Program wczytuje Księgę Pierwsza Pana Tadeusza

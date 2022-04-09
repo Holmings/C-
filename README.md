@@ -13,11 +13,11 @@ Wykonuje operacje na słowniku:
 - wypisuje sumę populacji wszystkich krajów bałtyckich
 
 #### travel offer
-Klasa World Market:
-- program losuje cenę za 1 tonę produktu oraz ją modyfikuje
-Klasa Product:
-- ustawia nazwę i masę produktu oraz oblicza cenę sprzedaży
-Klasa Engine:
+Klasa World Market:\n
+- program losuje cenę za 1 tonę produktu oraz ją modyfikuje\n
+Klasa Product:\n
+-ustawia nazwę i masę produktu oraz oblicza cenę sprzedaży\n
+Klasa Engine:\n
 - oblicza koszt transportu z uwzględnieniem typu paliwa i czas podróży
 Klasa Destination:
 - ustawia nazwę i odległość do danego portu
